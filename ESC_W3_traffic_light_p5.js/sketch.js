@@ -337,19 +337,19 @@ function isSystemOffMode(hand) {
          isThumbBent(hand,"right") &&             // 엄지 접힘
          isFingerBent(hand, 20, 18);      // 새끼손가락 접힘
 }
-
+//샤카감지
 function isShaka(hand) {
   if (!hand) return false;
   return countExtendedFingers(hand) === 2 &&
          !isThumbBent(hand, "left") &&
          isFingerExtended(hand, 20, 18);
 }
-
+//떰즈업감지
 function isThumbsUp(hand) {
   if (!hand) return false;
   return isFingerExtended(hand, 4, 3);
 }
-
+//떰즈다운감지지
 function isThumbsDown(hand) {
   if (!hand) return false;
   return isFingerBent(hand, 4, 3);
