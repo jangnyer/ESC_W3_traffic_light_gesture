@@ -4,9 +4,7 @@
 
 아래 영상에서 프로젝트의 동작을 확인할 수 있습니다.
 
-[![프로젝트 시연 영상][(https://img.youtube.com/vi/VpENFWReUGU/0.jpg)](https://youtu.be/VpENFWReUGU)
-](https://youtu.be/jM2XfrQzpM4?si=ZC-tDqLo01UmAlvt)
-[👉 영상 링크 바로가기]([https://youtu.be/VpENFWReUGU](https://youtu.be/VpENFWReUGU))
+[👉 영상 링크 바로가기]https://www.youtube.com/watch?v=jM2XfrQzpM4&t=1s
 
 
 # 🚦 1. ESC_W1_traffic_light_gesture 사용 방법
