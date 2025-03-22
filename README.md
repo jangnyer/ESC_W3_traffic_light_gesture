@@ -7,7 +7,7 @@
 [👉 영상 링크 바로가기]https://www.youtube.com/watch?v=jM2XfrQzpM4&t=1s
 
 
-# 🚦 1. ESC_W1_traffic_light_gesture 사용 방법
+# 🚦 1. ESC_W3_traffic_light_gesture 사용 방법
 
 ## 1️⃣ 프로젝트 개요
 이 프로젝트는 **Arduino와 p5.js**를 이용하여 신호등을 제어하고,  
@@ -116,6 +116,7 @@
 
 ### 4 기능 설명(추가된내용)
 이 프로젝트는 손 모양을 이용하여 신호등 모드 변경과 LED 지속 시간을 조절할 수 있습니다.
+LED 지속시간은 제스처에 따라 0.5씩 늘어나거나 줄어듭니다.
 
 ### 🚦 모드 변경
 | 모드명 | 손 모양 |
